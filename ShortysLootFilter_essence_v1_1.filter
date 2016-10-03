@@ -187,7 +187,7 @@ Show #Essences
 	
 Show
 	Class Currency
-	BaseType "Apprentice Cartographer's Sextant" "Cartographer's Seal" "Cartographer's Sextant" "Remnant of Corruption"
+	BaseType "Apprentice Cartographer's Sextant" "Cartographer's Seal" "Cartographer's Sextant" "Master Cartographer" "Unshaping Orb"
     SetBackgroundColor 100 20 145 170
     SetTextColor 245 200 255
     SetBorderColor 190 45 130
@@ -196,7 +196,7 @@ Show
 	
 Show
 	Class Currency
-	BaseType "Shrieking Essence of" "Essence of Hysteria" "Essence of Insanity" "Essence of Horror" "Essence of Delirium" "Stacked Deck" "Master Cartographer" "Unshaping Orb"
+	BaseType "Shrieking Essence of" "Essence of Hysteria" "Essence of Insanity" "Essence of Horror" "Essence of Delirium" "Stacked Deck"
 	SetTextColor 0 0 0 255
 	SetBorderColor 220 25 25
     SetBackgroundColor 220 25 25 170
